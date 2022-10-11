@@ -1,4 +1,4 @@
-public class leetcode725 {
+public class Assignment1_leetcode725 {
     public static class Node {
         int val;
         Node next;
