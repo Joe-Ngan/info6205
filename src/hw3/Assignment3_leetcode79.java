@@ -1,3 +1,5 @@
+package hw3;
+
 public class Assignment3_leetcode79 {
     public static void main(String[] args) {
         char[][] board = new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};

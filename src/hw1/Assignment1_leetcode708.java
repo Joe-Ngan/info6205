@@ -1,3 +1,5 @@
+package hw1;
+
 public class Assignment1_leetcode708 {
     public static class Node {
         int val;
