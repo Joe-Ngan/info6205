@@ -20,8 +20,10 @@ public class Main {
         System.out.println("Now the length is "+list.length+ " and the head is: "+list.head.data);
         Node iter = list.head;
         while(iter!=null){
-            System.out.println(iter.data);
+            System.out.print(iter.data);
             iter = iter.next;
+            if(iter!=null)System.out.print(",");
         }
+        System.out.println("");
     }
 }
